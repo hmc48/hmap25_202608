@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_25_介護医療院",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "彦根中央介護医療院【介護医療院】滋賀県彦根市西今町421", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=25B0200011-00&ServiceCd=550&Type=search", "url2": "https://www.hikone.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 136.241117799999984, 35.2488835 ] } },
+{ "type": "Feature", "properties": { "内容": "社会医療法人　誠光会　草津介護医療院【介護医療院】滋賀県草津市矢橋町1629-5", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=25B0600012-00&ServiceCd=550&Type=search", "url2": "https://www.kusatsu-gh.or.jp/ghk/" }, "geometry": { "type": "Point", "coordinates": [ 135.928253571966593, 35.011123912647392 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院生田病院【介護医療院】滋賀県湖南市菩提寺104-13", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=25B2300017-00&ServiceCd=550&Type=search", "url2": "http://ikuta-hospital.com" }, "geometry": { "type": "Point", "coordinates": [ 136.073374, 35.0228445 ] } },
+{ "type": "Feature", "properties": { "内容": "近江温泉病院介護医療院【介護医療院】滋賀県東近江市北坂町966近江温泉病院", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=25B0500014-00&ServiceCd=550&Type=search", "url2": "http://www.oumi-hp.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 136.275234899999987, 35.1321583 ] } }
+]
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_25_特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "シニアホーム勢多夕照苑【特定施設入居者生活介護（有料老人ホーム）】滋賀県大津市唐橋町23-1", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2570101598-00&ServiceCd=331&Type=search", "url2": "http://siga-seniorhome.jp/" }, "geometry": { "type": "Point", "coordinates": [ 135.905416699999932, 34.972646 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホームかおりの里【特定施設入居者生活介護（有料老人ホーム）】滋賀県大津市伊香立向在地町２５０番地", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2570100590-00&ServiceCd=331&Type=search", "url2": "http://www.bikentechno.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 135.880955500000027, 35.1362065 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　コンソルテ瀬田【特定施設入居者生活介護（有料老人ホーム）】大津市大江１丁目３番２０号", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2570100921-00&ServiceCd=331&Type=search", "url2": "https://www.consorte-seta.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 135.91326172090146, 34.985910322078382 ] } },
+{ "type": "Feature", "properties": { "内容": "アクティバ琵琶【特定施設入居者生活介護（有料老人ホーム）】滋賀県大津市雄琴6-17-17", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2570105961-00&ServiceCd=331&Type=search", "url2": "https://www.activabiwa.jp" }, "geometry": { "type": "Point", "coordinates": [ 135.9004782, 35.0905179 ] } },
+{ "type": "Feature", "properties": { "内容": "湖郷の彩風彦根【特定施設入居者生活介護（有料老人ホーム）】滋賀県彦根市松原町1435-13", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2570201422-00&ServiceCd=331&Type=search", "url2": "http://senior-life.jp/ayakaze/" }, "geometry": { "type": "Point", "coordinates": [ 136.257409408598306, 35.298303036147125 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　ケアフル楠の葉【特定施設入居者生活介護（有料老人ホーム）】滋賀県守山市今浜町２５３７－８", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2570700639-00&ServiceCd=331&Type=search", "url2": "https://www.sou-seniorcare.co.jp/" }, "geometry": { "type": "Point", "coordinates": [ 135.945290500000027, 35.1181319 ] } },
+{ "type": "Feature", "properties": { "内容": "チャーム栗東【特定施設入居者生活介護（有料老人ホーム）】滋賀県栗東市野尻443番", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2571201033-00&ServiceCd=331&Type=search", "url2": "http://www.charmcc.jp" }, "geometry": { "type": "Point", "coordinates": [ 135.9866782, 35.0348249 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設入居者生活介護まごころ湖東【特定施設入居者生活介護（有料老人ホーム）】湯屋町１１８１－１", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2570501326-00&ServiceCd=331&Type=search", "url2": "https://magokoro-home.co.jp/" }, "geometry": { "type": "Point", "coordinates": [ 136.2620641, 35.1365474 ] } }
+]
+}

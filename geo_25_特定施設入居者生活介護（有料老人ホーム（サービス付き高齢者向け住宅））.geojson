@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_25_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ハーモニーハウス甲賀【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】滋賀県甲賀市甲南町野田字下浦806", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2571401146-00&ServiceCd=&Type=search", "url2": "https://www.h-ikkou.co.jp/harmony_koka/index.html" }, "geometry": { "type": "Point", "coordinates": [ 136.1668535, 34.927423 ] } },
+{ "type": "Feature", "properties": { "内容": "ハーモニーハウス愛荘【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】滋賀県愛知郡愛荘町豊満字砂川原1291-1", "url": "https://www.kaigokensaku.mhlw.go.jp/25/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2571700299-00&ServiceCd=&Type=search", "url2": "https://www.h-ikkou.co.jp/harmony_aisho/index.html" }, "geometry": { "type": "Point", "coordinates": [ 136.213886399999978, 35.1620542 ] } }
+]
+}
